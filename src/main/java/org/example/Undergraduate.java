@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Undergraduate extends Student {
     public Undergraduate(String name, int age, String department, int id) {
-        super(name, age, department,id);
+        super(name, age, department, id);
     }
 
     @Override
